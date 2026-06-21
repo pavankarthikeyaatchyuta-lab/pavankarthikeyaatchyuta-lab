@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Animated wave header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:8B5CF6,100:EC4899&height=220&section=header&text=Hi%20there,%20I'm%20Pavan%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Undergraduate%20%7C%20GenAI%20%7C%20Computer%20Vision%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
+<img src="wave_header.svg" width="100%"/>
 
 <!-- Typing animation -->
 <a href="https://github.com/pavankarthikeyaatchyuta-lab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Turning+ideas+into+deployed+AI+systems;Generative+AI+%E2%80%A2+Computer+Vision+%E2%80%A2+ML+Ranking+Systems;CGPA+9.48+%7C+Rank+1+%E2%80%94+CSE+(AI+%26+ML);Always+shipping+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Turning+ideas+into+deployed+AI+systems;Generative+AI+-+Computer+Vision+-+ML+Ranking;CGPA+9.48+%7C+Rank+1+-+CSE+(AI+%26+ML);Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
 <br/>
