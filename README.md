@@ -3,11 +3,9 @@
 <!-- Animated wave header -->
 <img src="wave_header.svg" width="100%"/>
 
-### Atchyuta Pavan Karthikeya
-
 <!-- Typing animation -->
 <a href="https://github.com/pavankarthikeyaatchyuta-lab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Turning+ideas+into+deployed+AI+systems;Machine+Learning+-+Generative+AI+-+Computer+Vision;Hackathon+Enthusiast+%7C+CGPA+9.48+%7C+Rank+1;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Turning+ideas+into+deployed+AI+systems;Machine+Learning+%7C+Generative+AI+%7C+CV;Hackathon+Enthusiast+%7C+Rank+1+%7C+CGPA+9.48;Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -83,6 +81,12 @@ print(me.say_hi())
 ## 🛠️ Tech Stack
 
 <div align="center">
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,java,c,js,ts,fastapi,react,nextjs,opencv,sklearn,docker,gcp,aws,mongodb,firebase,git,github,vscode&theme=dark&perline=9" />
+</a>
+
+<br/><br/>
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
