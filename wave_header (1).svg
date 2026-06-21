@@ -1,0 +1,14 @@
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+<stop offset="0%" stop-color="#6366F1"/>
+<stop offset="50%" stop-color="#8B5CF6"/>
+<stop offset="100%" stop-color="#EC4899"/>
+</linearGradient>
+</defs>
+<rect width="800" height="180" fill="url(#bgGrad)"/>
+<path d="M0,140 Q200,100 400,140 T800,140 L800,180 L0,180 Z" fill="rgba(255,255,255,0.12)"/>
+<path d="M0,155 Q200,120 400,155 T800,155 L800,180 L0,180 Z" fill="rgba(255,255,255,0.18)"/>
+<text x="400" y="78" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="700" fill="#ffffff" text-anchor="middle">Hi there, I'm Pavan 👋</text>
+<text x="400" y="115" font-family="Segoe UI, Arial, sans-serif" font-size="15.5" fill="rgba(255,255,255,0.92)" text-anchor="middle">AI &amp; ML Undergraduate • Machine Learning • GenAI • Hackathon Enthusiast</text>
+</svg>
