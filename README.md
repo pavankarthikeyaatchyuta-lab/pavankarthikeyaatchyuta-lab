@@ -5,7 +5,7 @@
 
 <!-- Typing animation -->
 <a href="https://github.com/pavankarthikeyaatchyuta-lab">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Turning+ideas+into+deployed+AI+systems;Machine+Learning+%7C+Generative+AI+%7C+CV;Hackathon+Enthusiast+%7C+Rank+1+%7C+CGPA+9.48;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3000&pause=900&color=8B5CF6&center=true&vCenter=true&multiline=true&width=750&height=110&lines=Turning+ideas+into+deployed+AI+systems;Machine+Learning+%7C+Generative+AI+%7C+CV;Hackathon+Enthusiast+%7C+%7C+CGPA+9.48;Always+shipping+something+new" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -67,7 +67,6 @@ print(me.say_hi())
 
 - 🔭 Currently building **AI-powered, production-deployed systems** across GenAI, Computer Vision & ML ranking
 - 🏆 Competing in **national-level hackathons**: Flipkart GRiD 8.0, Redrob AI National Hackathon, NHAI Hackathon 7.0
-- 🎓 Shortlisted for **Amazon ML Summer School 2026**
 - 🥇 **Top ~0.36%** (95.57/100) — Hack2Skill × Google PromptWars Challenge 3, among 30,787+ participants
 - 🥈 Selected for **Round 2 — Meta AI / Hugging Face / PyTorch OpenEnv Hackathon** among 31,000+ teams
 - 💡 I learn fast, ship fast, and love turning a vague hackathon prompt into a real, working product
